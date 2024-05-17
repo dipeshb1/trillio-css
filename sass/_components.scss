@@ -134,6 +134,7 @@
     flex-direction: column;
     transition: transform 0.2s;
     width: 120%;
+    opacity: 100;
   }
   &__user-option {
     padding: 1rem 1.5rem;
@@ -195,6 +196,7 @@
     font-size: 1.2rem;
     visibility: hidden;
     opacity: 0;
+    opacity: 100;
   }
   &__user-messages-option {
     padding: 1rem 1.5rem;
